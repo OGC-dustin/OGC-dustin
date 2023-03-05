@@ -1,7 +1,7 @@
 # OGC.Engineering
 ## Embedded System Consulting, Design, and Development
 
-dustin@ogc.engineering
+dustin <at> ogc.engineering
 
 ---
 These repositories are focused on layered development intended to speed up prototyping and development of embedded systems
