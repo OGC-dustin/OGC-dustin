@@ -1,12 +1,14 @@
 # OGC.Engineering
-## Embedded System Consulting, Design, and Development
+### Embedded System Consulting, Design, and Development
 
 dustin < at > ogc.engineering
 
 ---
+
 These repositories are focused on layered development intended to speed up prototyping and development of embedded systems
 
 ---
+
 Suggested folder structure, each repository will include suggested folder in its name ogc-<folder_abbreviation>-<name>
     
     i.e. ogc-lib-os-ooda ( library for the operating system that uses an ooda loop as its main processing loop )
@@ -22,6 +24,7 @@ Suggested folder structure, each repository will include suggested folder in its
         - csp ( chip support package(s) )
     - hardware
         - hardware description(s)
+
 ---
 
 ### Configuration/Support files
@@ -35,6 +38,8 @@ Suggested folder structure, each repository will include suggested folder in its
 ### Hardware dependent source files
 - firmware - ( mix of company IP and general use drivers/chip support packages ) This folder includes manufacture supplies chip support files, and a mix of general and company IP drivers and hardware abstraction folders/files.
 - hardware - ( typically company IP ) Each folder under the hardware folder holds the physical description header for a piece of hardware
+
 ---
 
-Example projects available: ( TBD )
+Example projects available:
+    ( WIP ) https://github.com/OGC-dustin/demo_set_for_layered_development - an exploration of different frameworks
