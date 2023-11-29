@@ -42,4 +42,4 @@ Suggested folder structure, each repository will include suggested folder in its
 ---
 
 Example projects available:
-    ( WIP ) https://github.com/OGC-dustin/demo_set_for_layered_development - an exploration of different frameworks
+* ( WIP ) https://github.com/OGC-dustin/demo_set_for_layered_development - an exploration of different frameworks
